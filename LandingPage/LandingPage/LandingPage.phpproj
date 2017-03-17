@@ -23,6 +23,11 @@
     <Folder Include="assens\" />
     <Folder Include="assens\css\" />
     <Folder Include="assens\fonts\" />
+    <Folder Include="assens\fonts\font-awesome-4.7.0\" />
+    <Folder Include="assens\fonts\font-awesome-4.7.0\css\" />
+    <Folder Include="assens\fonts\font-awesome-4.7.0\fonts\" />
+    <Folder Include="assens\fonts\font-awesome-4.7.0\less\" />
+    <Folder Include="assens\fonts\font-awesome-4.7.0\scss\" />
     <Folder Include="assens\images\" />
     <Folder Include="assens\js\" />
   </ItemGroup>
@@ -39,10 +44,48 @@
     <Content Include="assens\css\bootstrap.css" />
     <Content Include="assens\css\bootstrap.css.map" />
     <Content Include="assens\css\bootstrap.min.css" />
+    <Content Include="assens\css\styles.css" />
     <Content Include="assens\fonts\._glyphicons-halflings-regular.eot" />
     <Content Include="assens\fonts\._glyphicons-halflings-regular.svg" />
     <Content Include="assens\fonts\._glyphicons-halflings-regular.ttf" />
     <Content Include="assens\fonts\._glyphicons-halflings-regular.woff" />
+    <Content Include="assens\fonts\font-awesome-4.7.0\css\font-awesome.css" />
+    <Content Include="assens\fonts\font-awesome-4.7.0\css\font-awesome.min.css" />
+    <Content Include="assens\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.eot" />
+    <Content Include="assens\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.svg" />
+    <Content Include="assens\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.ttf" />
+    <Content Include="assens\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.woff" />
+    <Content Include="assens\fonts\font-awesome-4.7.0\fonts\fontawesome-webfont.woff2" />
+    <Content Include="assens\fonts\font-awesome-4.7.0\fonts\FontAwesome.otf" />
+    <Content Include="assens\fonts\font-awesome-4.7.0\HELP-US-OUT.txt" />
+    <Content Include="assens\fonts\font-awesome-4.7.0\less\animated.less" />
+    <Content Include="assens\fonts\font-awesome-4.7.0\less\bordered-pulled.less" />
+    <Content Include="assens\fonts\font-awesome-4.7.0\less\core.less" />
+    <Content Include="assens\fonts\font-awesome-4.7.0\less\fixed-width.less" />
+    <Content Include="assens\fonts\font-awesome-4.7.0\less\font-awesome.less" />
+    <Content Include="assens\fonts\font-awesome-4.7.0\less\icons.less" />
+    <Content Include="assens\fonts\font-awesome-4.7.0\less\larger.less" />
+    <Content Include="assens\fonts\font-awesome-4.7.0\less\list.less" />
+    <Content Include="assens\fonts\font-awesome-4.7.0\less\mixins.less" />
+    <Content Include="assens\fonts\font-awesome-4.7.0\less\path.less" />
+    <Content Include="assens\fonts\font-awesome-4.7.0\less\rotated-flipped.less" />
+    <Content Include="assens\fonts\font-awesome-4.7.0\less\screen-reader.less" />
+    <Content Include="assens\fonts\font-awesome-4.7.0\less\stacked.less" />
+    <Content Include="assens\fonts\font-awesome-4.7.0\less\variables.less" />
+    <Content Include="assens\fonts\font-awesome-4.7.0\scss\font-awesome.scss" />
+    <Content Include="assens\fonts\font-awesome-4.7.0\scss\_animated.scss" />
+    <Content Include="assens\fonts\font-awesome-4.7.0\scss\_bordered-pulled.scss" />
+    <Content Include="assens\fonts\font-awesome-4.7.0\scss\_core.scss" />
+    <Content Include="assens\fonts\font-awesome-4.7.0\scss\_fixed-width.scss" />
+    <Content Include="assens\fonts\font-awesome-4.7.0\scss\_icons.scss" />
+    <Content Include="assens\fonts\font-awesome-4.7.0\scss\_larger.scss" />
+    <Content Include="assens\fonts\font-awesome-4.7.0\scss\_list.scss" />
+    <Content Include="assens\fonts\font-awesome-4.7.0\scss\_mixins.scss" />
+    <Content Include="assens\fonts\font-awesome-4.7.0\scss\_path.scss" />
+    <Content Include="assens\fonts\font-awesome-4.7.0\scss\_rotated-flipped.scss" />
+    <Content Include="assens\fonts\font-awesome-4.7.0\scss\_screen-reader.scss" />
+    <Content Include="assens\fonts\font-awesome-4.7.0\scss\_stacked.scss" />
+    <Content Include="assens\fonts\font-awesome-4.7.0\scss\_variables.scss" />
     <Content Include="assens\fonts\glyphicons-halflings-regular.eot" />
     <Content Include="assens\fonts\glyphicons-halflings-regular.svg" />
     <Content Include="assens\fonts\glyphicons-halflings-regular.ttf" />
@@ -81,5 +124,6 @@
     <Content Include="assens\js\bootstrap.js" />
     <Content Include="assens\js\bootstrap.min.js" />
     <Content Include="assens\js\npm.js" />
+    <Content Include="index.html" />
   </ItemGroup>
 </Project>
